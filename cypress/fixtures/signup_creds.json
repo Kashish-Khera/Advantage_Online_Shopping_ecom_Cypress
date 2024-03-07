@@ -1,0 +1,13 @@
+{
+    "username" : "TestingFive", 
+    "email" : "demo1234@yopmail.com",
+    "password" : "Testing1234",
+    "confirm_pw" : "Testing1234",
+    "firstname" : "User" , 
+    "lastname" : "five", 
+    "mobile" : "1234564253",
+    "city" : "South West Delhi", 
+    "state" : "Delhi",
+    "address" : "Addresssss",
+    "postalcode" : 110067
+}
